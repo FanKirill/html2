@@ -23,6 +23,7 @@ header {
 }
 .headertable{
     padding: 39px;
+   margin-left:auto;
 }
 .headertable a{
     font-size: 29px;
